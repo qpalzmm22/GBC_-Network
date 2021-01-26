@@ -14,9 +14,9 @@
 
 **2. HTTP 1.0과 HTTP 1.1의 차이점은 무엇입니까?**
 
-`HTTP 1.0`은 **open / operation / close** 형태로 작동하며 operation이 끝날 때 바로 세션을 종료시킨다.
+>`HTTP 1.0`은 **open / operation / close** 형태로 작동하며 operation이 끝날 때 바로 세션을 종료시킨다.
 
-`HTTP 1.1`은 **Consistent Connection**을 지원하며 **HTTP Pipelining**을 지원한다.
+>`HTTP 1.1`은 **Consistent Connection**을 지원하며 **HTTP Pipelining**을 지원한다.
 
 ![hw](img/hw2.png)
 
